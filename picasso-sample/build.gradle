@@ -37,7 +37,7 @@ android {
   defaultConfig {
     minSdkVersion rootProject.ext.minSdkVersion
     targetSdkVersion rootProject.ext.targetSdkVersion
-    applicationId 'com.example.picasso'
+    applicationId 'com.squareup.picasso'
 
     versionCode 1
     versionName '1.0'
